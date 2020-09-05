@@ -110,18 +110,18 @@ for (let idx = 0; idx < 100; ++idx) {
 		const insert = document.createElement("div");
 		main.parentNode.insertBefore(insert, target);
 
+		if (idx != 0) {
+			main.className = (`impression-${idx}`);
+			main.parentNode.removeChild(main);
+			insert.appendChild(main);	
+		}
+
 		while (target != null && target.tagName.toLowerCase() == "p") {
 			const nextTarget = target.nextElementSibling;
 			target.className = (`impression-${idx}`);
 			target.parentNode.removeChild(target);
 			insert.appendChild(target);
 			target = nextTarget;
-		}
-
-		if (idx != 0) {
-			main.className = (`impression-${idx}`);
-			main.parentNode.removeChild(main);
-			insert.appendChild(main);	
 		}
 
 		button.onclick = function() { toggle_impression(idx); };
