@@ -80,7 +80,7 @@ function toggle_impression(id) {
 	Array.prototype.slice.call(document.querySelectorAll(`.impression-${id}`)).forEach(it => it.style.display == "none" ? it.style.display = "block" : it.style.display = "none")
 	const button = document.querySelector(`.impression_button-${id}`);
 	const isShow = document.querySelector(`.impression-${id}`).style.display == 'none';
-	button.value = isShow ? "感想を見ない" : "感想を見る";
+	button.value = isShow ? "感想を見る" : "感想を見ない";
 	if(isShow)  { button.classList.add(`btn-primary`); button.classList.remove(`btn-default`); }
 	else		{ button.classList.remove(`btn-primary`); button.classList.add(`btn-default`); }
 }
@@ -92,26 +92,41 @@ Array.prototype.slice.call(document.querySelectorAll(".bad_button")).forEach(it 
 });
 
 const impression = "感想";
-for (var idx = 0; idx < 100; ++idx) {
-	const main = document.getElementById(`${impression}-${idx}`);
+for (let idx = 0; idx < 100; ++idx) {
+	const main = document.getElementById(idx == 0 ? `${impression}` : `${impression}-${idx}`);
 	if (main == null) {
 		continue;
 	}
-	const list = main.nextElementSibling;
-	if (list != null && list.tagName.toLowerCase() == "ul") {
+	let target = main.nextElementSibling;
+	if (target != null && target.tagName.toLowerCase() == "ul") {
+		target = target.nextElementSibling;
+	}
+	if (target != null && target.tagName.toLowerCase() == "p") {
 		const button = document.createElement("input");
 		button.type = "button";
 		button.className = `impression_button-${idx}`;
-		main.parentElement.insertBefore(button, main);
+		main.parentElement.insertBefore(button, target);
 
 		const insert = document.createElement("div");
-		main.parentNode.insertBefore(insert, main);
-		list.parentNode.removeChild(main);
-		list.parentNode.removeChild(list);
-		insert.appendChild(main);
-		insert.appendChild(list);
+		main.parentNode.insertBefore(insert, target);
 
-		button.onclick = `toggle_impression(${idx})`;
+		while (target != null && target.tagName.toLowerCase() == "p") {
+			target.className = (`impression-${idx}`);
+			target.parentNode.removeChild(target);
+			insert.appendChild(target);
+			target = target.nextElementSibling;
+		}
+
+		if (idx != 0) {
+			main.className = (`impression-${idx}`);
+			main.parentNode.removeChild(main);
+			insert.appendChild(main);	
+		}
+
+		button.onclick = function() { toggle_impression(idx); };
+
+		toggle_impression(idx);
+		toggle_impression(idx);
 	}
 }
 
