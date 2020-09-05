@@ -79,7 +79,7 @@ function toggle_bad() {
 function toggle_impression(id) {
 	Array.prototype.slice.call(document.querySelectorAll(`.impression-${id}`)).forEach(it => it.style.display == "none" ? it.style.display = "block" : it.style.display = "none")
 	const button = document.querySelector(`.impression_button-${id}`);
-	const isShow = document.querySelector(`.impression-${id}`).style.display == 'none';
+	const isShow = document.querySelector(`.impression-${id}`).style.display == 'block';
 	button.value = isShow ? "感想を見る" : "感想を見ない";
 	if(isShow)  { button.classList.add(`btn-primary`); button.classList.remove(`btn-default`); }
 	else		{ button.classList.remove(`btn-primary`); button.classList.add(`btn-default`); }
@@ -111,10 +111,11 @@ for (let idx = 0; idx < 100; ++idx) {
 		main.parentNode.insertBefore(insert, target);
 
 		while (target != null && target.tagName.toLowerCase() == "p") {
+			const nextTarget = target.nextElementSibling;
 			target.className = (`impression-${idx}`);
 			target.parentNode.removeChild(target);
 			insert.appendChild(target);
-			target = target.nextElementSibling;
+			target = nextTarget;
 		}
 
 		if (idx != 0) {
