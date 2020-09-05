@@ -1,7 +1,7 @@
-const title = "第11回ウディコン全作品レビュー";
+const title = "第12回ウディコン全作品レビュー";
 const titleWithName = `${title} | narratology`;
-const disc = "このレビューは個人の独断と偏見で書かれた、第11回ウディコン全作品に対するレビューです。";
-const url = "https://expine.github.io/WodiconReview2019/";
+const disc = "このレビューは個人の独断と偏見で書かれた、第12回ウディコン全作品に対するレビューです。";
+const url = "https://expine.github.io/WodiconReview2020/";
 const image = "https://trap.jp/content/images/2018/08/wall.png";
 const head = document.getElementsByTagName("head")[0];
 // 言語

@@ -41,7 +41,7 @@ for(let i = ts.length; i--; ) {
 }
 
 const bad = "気になった点";
-for (var idx = 1; idx < 70; ++idx) {
+for (var idx = 1; idx < 100; ++idx) {
 	const main = document.getElementById(`${bad}-${idx}`);
 	if (main == null) {
 		continue;
@@ -76,10 +76,44 @@ function toggle_bad() {
 	});
 }
 
+function toggle_impression(id) {
+	Array.prototype.slice.call(document.querySelectorAll(`.impression-${id}`)).forEach(it => it.style.display == "none" ? it.style.display = "block" : it.style.display = "none")
+	const button = document.querySelector(`.impression_button-${id}`);
+	const isShow = document.querySelector(`.impression-${id}`).style.display == 'none';
+	button.value = isShow ? "感想を見ない" : "感想を見る";
+	if(isShow)  { button.classList.add(`btn-primary`); button.classList.remove(`btn-default`); }
+	else		{ button.classList.remove(`btn-primary`); button.classList.add(`btn-default`); }
+}
+
 Array.prototype.slice.call(document.querySelectorAll(".bad_button")).forEach(it => {
 	it.onclick = toggle_bad;
 	it.classList.add(`btn`);
 	it.style = `font-size:15px;`;
 });
+
+const impression = "感想";
+for (var idx = 0; idx < 100; ++idx) {
+	const main = document.getElementById(`${impression}-${idx}`);
+	if (main == null) {
+		continue;
+	}
+	const list = main.nextElementSibling;
+	if (list != null && list.tagName.toLowerCase() == "ul") {
+		const button = document.createElement("input");
+		button.type = "button";
+		button.className = `impression_button-${idx}`;
+		main.parentElement.insertBefore(button, main);
+
+		const insert = document.createElement("div");
+		main.parentNode.insertBefore(insert, main);
+		list.parentNode.removeChild(main);
+		list.parentNode.removeChild(list);
+		insert.appendChild(main);
+		insert.appendChild(list);
+
+		button.onclick = `toggle_impression(${idx})`;
+	}
+}
+
 toggle_bad();
 toggle_bad();
