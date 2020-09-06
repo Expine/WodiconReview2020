@@ -74,6 +74,7 @@ for (let idx = 0; idx < 100; ++idx) {
 
 	button.onclick = function() { toggle_impression(idx); };
 	toggle_impression(idx);
+	toggle_impression(idx);
 }
 
 toggle_bad();
