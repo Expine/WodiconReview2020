@@ -68,7 +68,7 @@ Array.prototype.slice.call(document.querySelectorAll(".bad_button")).forEach(it 
 const impression = "感想";
 for (let idx = 0; idx < 100; ++idx) {
 	const button = document.querySelector(`.impression_button-${idx}`);
-	if (buton == null) {
+	if (button == null) {
 		continue;
 	}
 
