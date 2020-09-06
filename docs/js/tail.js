@@ -50,10 +50,31 @@ function toggle_bad() {
 	});
 }
 
+function toggle_impression(id) {
+	Array.prototype.slice.call(document.querySelectorAll(`.impression-${id}`)).forEach(it => it.style.display == "none" ? it.style.display = "block" : it.style.display = "none")
+	const button = document.querySelector(`.impression_button-${id}`);
+	const isShow = document.querySelector(`.impression-${id}`).style.display == 'block';
+	button.value = isShow ? "感想を見る状態です" : "感想を見ない状態です";
+	if(isShow)  { button.classList.add(`btn-primary`); button.classList.remove(`btn-default`); }
+	else		{ button.classList.remove(`btn-primary`); button.classList.add(`btn-default`); }
+}
+
 Array.prototype.slice.call(document.querySelectorAll(".bad_button")).forEach(it => {
 	it.onclick = toggle_bad;
 	it.classList.add(`btn`);
 	it.style = `font-size:15px;`;
 });
+
+const impression = "感想";
+for (let idx = 0; idx < 100; ++idx) {
+	const button = document.querySelector(`.impression_button-${idx}`);
+	if (buton == null) {
+		continue;
+	}
+
+	button.onclick = function() { toggle_impression(idx); };
+	toggle_impression(idx);
+}
+
 toggle_bad();
 toggle_bad();
