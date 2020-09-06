@@ -49,6 +49,7 @@ for (var idx = 1; idx < 100; ++idx) {
 	const list = main.nextElementSibling;
 	if (list != null && list.tagName.toLowerCase() == "ul") {
 		const insert = document.createElement("div");
+		main.className = "bad";
 		insert.className = "bad";
 		main.parentNode.insertBefore(insert, list);
 		list.parentNode.removeChild(list);
@@ -116,12 +117,15 @@ for (let idx = 0; idx < 100; ++idx) {
 			insert.appendChild(main);	
 		}
 
-		while (target != null && target.tagName.toLowerCase() == "p") {
+		while (target != null) {
 			const nextTarget = target.nextElementSibling;
 			target.className = (`impression-${idx}`);
 			target.parentNode.removeChild(target);
 			insert.appendChild(target);
 			target = nextTarget;
+			if (target.tagName.toLowerCase() == "h1" || target.tagName.toLowerCase() == "h2") {
+				break;
+			}
 		}
 
 		button.onclick = function() { toggle_impression(idx); };
