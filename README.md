@@ -2640,6 +2640,8 @@ Good End について話すので、とりあえず未読の方はバックし�
 
 
 ## 41. オバケ・ファミリー Stay Away, Stay Home
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/41.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | スニーキング | [semicolon](https://twitter.com/semicolonize) |
@@ -2675,6 +2677,8 @@ Good End について話すので、とりあえず未読の方はバックし�
 HARDクリアしておくと嬉しいことがあるので、まだクリアできない方はやってみましょう。
 
 ## 42. ウルファールの冒険~ウルファールと時の時間~
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/42.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | RPG | HRGAME |
@@ -2706,6 +2710,8 @@ Lv10になったらついてくるキャラがLv5なのはなかなか高度な�
 魔王倒すより犬倒したほうが経験値多いのは罠っぽいです。
 
 ## 43. けもみみアイランド
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/43.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | オムニバス |  |
@@ -2737,6 +2743,8 @@ Lv10になったらついてくるキャラがLv5なのはなかなか高度な�
 最後に、これは明言していないので規約違反じゃないって認識なんですかね。
 
 ## 44. DolL
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/44.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | RPG | [たねかみ](https://roomoftanekami.blogspot.com/) |
@@ -2778,6 +2786,8 @@ Lv10になったらついてくるキャラがLv5なのはなかなか高度な�
 それだけに、裏ボスの一発で沈む弱さがいまいち達成感に結びつかないのがちょっと物足りなかったです。
 
 ## 45. L0ST M@IL
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/45.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | 探索 | [tyap](https://twitter.com/paper_hamu) |
@@ -2802,6 +2812,8 @@ Lv10になったらついてくるキャラがLv5なのはなかなか高度な�
 これは所感ですが、最初にコアの入れ替えで別人になる云々の会話が提示されるので、そちらがキーなのかと思ってプレイしていました。最終的にはどちらかといえばテロのほうがキーだったように思っています。
 
 ## 46. ゲー製ゲーム
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/46.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | すごろく | 南天 |
@@ -2837,6 +2849,8 @@ Lv10になったらついてくるキャラがLv5なのはなかなか高度な�
 最後に、オンラインランキングが魔境ですね。スコア算出の計算式は分かりませんが、40000超が恐ろしいことはよくわかります。私は17000くらいのペーペーです。
 
 ## 47. 冬呼びの旅路
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/47.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | 探索RPG | さかあがり |
@@ -2870,6 +2884,8 @@ Lv10になったらついてくるキャラがLv5なのはなかなか高度な�
 個人的にはニグラくんが一番良いキャラをしていると思います。
 
 ## 48. チップドロボーン
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/48.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | ミニゲーム | Monzyu |
@@ -2893,6 +2909,8 @@ Lv10になったらついてくるキャラがLv5なのはなかなか高度な�
 この辺、借金を許している部分と、かける回数が4回と決まっているあたりがギャンブル的な駆け引きがあんまりないところな気がしています。この手のゲームに対して、そういう話は野暮というものだとは思いますが。
 
 ## 49. 神話解体論
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/49.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | 探索+トウソウ | [路地の浦](http://ikisiteru.web.fc2.com/rojinoura.html) |
@@ -2920,6 +2938,8 @@ Lv10になったらついてくるキャラがLv5なのはなかなか高度な�
 
 
 ## 50. よるよるすぴりっつ
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/50.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | ミニゲーム | [すぷりー](http://spree.hariko.com/) |
@@ -2942,6 +2962,8 @@ Lv10になったらついてくるキャラがLv5なのはなかなか高度な�
 クリア時の演出というか、あのわちゃわちゃ感もいいです。それまでお馴染みの妖精さんの特色ある喋りを聞けてなかった分、ここで聞けて良かったです。
 
 ## 51. 雪子の脱出
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/51.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | 脱出 | パワー系姉者 |
@@ -2966,6 +2988,8 @@ Lv10になったらついてくるキャラがLv5なのはなかなか高度な�
 どうでもいい話ですが、一時期エントリーから外れたため、保存していた投票が吹っ飛んだことがありました。エントリー外れるとそうなるんですね。多分エントリー外れた状態で送信すると、その投票がない状態で上書き保存するということでしょうか。
 
 ## 52. やどにげ
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/52.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | 避け | [YADO](http://kkni.net/) |
@@ -2997,6 +3021,8 @@ Lv10になったらついてくるキャラがLv5なのはなかなか高度な�
 全方位ゲームなので、どの進行向きも平等の視認範囲が欲しくはありました。
 
 ## 53. げきをつくろう！
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/53.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | ノベル | [カツサンド](https://ci-en.net/creator/6978) |
@@ -3037,6 +3063,8 @@ Lv10になったらついてくるキャラがLv5なのはなかなか高度な�
 結局、開かずの扉は何だったんでしょうか。
 
 ## 54. Cigar In The Room
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/54.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | パズル | Yamada |
@@ -3065,6 +3093,8 @@ Cigarのこの愛すべきキャラっぽさもまた、どういう理屈なの
 謎に関しては、最高難度は一つ目のソリティアだと思います。ゲーム時間のおおよそはこれを解いていました。他はちょっと考えれば大体できます。ハノイの塔なんかは、プログラマーなら何回か解くものなので。ゲームでも7th Sectorとかでやっています。
 
 ## 55. エメラルドパラディン
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/55.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | RPG | ルウキ |
@@ -3098,6 +3128,8 @@ Cigarのこの愛すべきキャラっぽさもまた、どういう理屈なの
 一点気になるのは、会話でキャラが切り替わるたびにウェイトが挟まるところで、これがイベントのたびにやや辛かったです。文章出したままウェイトするのはまだ文章読むためとわかるんですが、そのあとのウェイトはウィンドウも何もない中の待ちなので、そこそこ虚無いです。
 
 ## 56. 異の時の城塞と封印の魔竜
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/56.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | 探索RPG | ろぜちは080 |
@@ -3144,6 +3176,8 @@ Cigarのこの愛すべきキャラっぽさもまた、どういう理屈なの
 Readme読んだ感じだと、隠し武器前提でバランス調整しているようで、結構思いきってるなとは思っています。加えて、隠し武器をせっかく持っていても、それを無効化するように後半は動いてくるので結局効いていないあたりもどういう調整したのかは気になるところです。
 
 ## 57. おしまいのーと。
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/57.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | ホラー | [カッパ永久寺](http://kappaaqg.web.fc2.com/) |
@@ -3175,6 +3209,8 @@ Readme読んだ感じだと、隠し武器前提でバランス調整してい�
 この作品は、物語の骨子がきちんと成立していて、クリアするまでずっと楽しむことができました。
 
 ## 58. フランケンシュタインの花嫁
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/58.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | 探索 | [湖上望/やまと](https://akira-find.amebaownd.com/) |
@@ -3208,6 +3244,8 @@ Readme読んだ感じだと、隠し武器前提でバランス調整してい�
 そういう意味でも、一番難しい「謎解きしないと進めない」ところが序盤に固まっているのがちょっと厳しいです。ストーリーを継続してみたいかどうかの判断がつきにくいタイミングで来るので。ただ、個人的には序盤の謎解きは骨があって好きです。
 
 ## 59. QUEST OF FIRE
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/59.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | RPG | Masaqq |
@@ -3251,6 +3289,8 @@ Readme読んだ感じだと、隠し武器前提でバランス調整してい�
 
 
 ## 60. わたしがあなたを悩ませる
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/60.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | シルエットクイズ | [HMKEY14代目](https://www.freem.ne.jp/brand/5095) |
@@ -3279,6 +3319,8 @@ Readme読んだ感じだと、隠し武器前提でバランス調整してい�
 どうでもいいですが、これだけ彼女と書いてありながら、なぜかあのキャラを男だと思っていました。
 
 ## 61. 6選ミニゲーム
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/61.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | ミニゲームオムニバス | HRGAME |
@@ -3306,6 +3348,8 @@ Readme読んだ感じだと、隠し武器前提でバランス調整してい�
 フィールドバックと感想も受け付けていないようなので、ここは章立てが感想と書いていますが、つぶやき程度だと思っていただけると幸いです。
 
 ## 62. フェイタルスピア
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/62.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | アドベンチャー | みずゆ |
@@ -3334,6 +3378,8 @@ Readme読んだ感じだと、隠し武器前提でバランス調整してい�
 そんな感じで、浅瀬でぴちゃぴちゃして帰った人による感想なので、もっと深く潜った人から感想を得たほうが有意義かもしれません。
 
 ## 63. THE CANDLE LIGHT
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/63.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | 横スクロール探索 | 鉄人37号 |
@@ -3361,6 +3407,8 @@ Readme読んだ感じだと、隠し武器前提でバランス調整してい�
 これは大分個人的な体験の話になるんですが、ウディフェスでやっていたバージョンに比べて、かなり遊びやすくなっているのも印象的でした。マウスクリックで移動+マウスクリックで蝋燭をつけるみたいな操作性は統一感はあったんですがやりにくいので、今作でキーボードで動かせるようになったことで大分やりやすくなっています。
 
 ## 64. 君はヒの魔法使い
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/64.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | 電子ゲームブック | [うどんのたまご](http://udon-tamago.sakura.ne.jp/index.html) |
@@ -3392,6 +3440,8 @@ Readme読んだ感じだと、隠し武器前提でバランス調整してい�
 個人的に気になったところは、アイテムでもクリックしたらパラグラフ遷移してほしい場面がちょっとあるくらいです。全体を通して遊びやすい作品でした。
 
 ## 65. 女神様の育てかた
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/65.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | RTS風RPG | 赤マンタ |
@@ -3422,6 +3472,8 @@ Readme読んだ感じだと、隠し武器前提でバランス調整してい�
 ストーリーは短くとも、ゆるくコミカルに進行していくのがいいです。ヒゲが一回性能落ちた時は誰よりも強くなる布石だと思っていたんですが、そんなこともなくテキトーに強い程度で済んでいるのが彼っぽくて良かったです。
 
 ## 66. 塔と魔女
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/66.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | RPG | [rute.](https://twitter.com/rute_wayward) |
@@ -3449,6 +3501,8 @@ Readme読んだ感じだと、隠し武器前提でバランス調整してい�
 ストーリーは戦闘メインだからなのかあっさり目ですが、流れが良かったです。たまに誰がしゃべってるのかわからなくなる時と、そのせいか感情というか文脈を追えないタイミングはありましたが、大筋が良かったです。
 
 ## 67. コロットブレイバーズ
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/67.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | 戦闘 | かみぶくろ |
@@ -3473,6 +3527,8 @@ Readme読んだ感じだと、隠し武器前提でバランス調整してい�
 全部倒すつもりがあるなら、ダーツで一人消してから、適宜回復で人数をキープすれば割と戦えました。戦闘システムは理解できていないので、とりあえずやられないことを目標にしました。
 
 ## 68. 暇人の冒険 Mini Adventure
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/68.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | シュール | n |
@@ -3497,6 +3553,8 @@ Readme読んだ感じだと、隠し武器前提でバランス調整してい�
 一応マルチエンディングらしく、多分クリアっぽいエンドには行ったので終わりとしていますが、これが終わりだったかどうかもよくわかってはいません。
 
 ## 69. フォールリーフ
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/69.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | アドベンチャー | [ダラダラアリ](https://lazydevelopers2013.blogspot.com/) |
@@ -3520,6 +3578,8 @@ Readme読んだ感じだと、隠し武器前提でバランス調整してい�
 個人的には、イベントがだいぶ丁寧に作られているせいか、ちょいちょい長くは感じます。一部のイベントキャラについては、そこで止まるかなと思っていたらもう2倍くらい動くイメージです。
 
 ## 70. 十二の願いが叶うなら
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/70.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | RPG | [チーム クロノス](http://msedenshijuku.konjiki.jp/ot/honobono2019/) |
@@ -3559,6 +3619,8 @@ Readme読んだ感じだと、隠し武器前提でバランス調整してい�
 Super Phantom Cat なんかは、バグで全アイテムロストして一気にやる気なくなったこともありますし、致命的バグはプレイヤーのやる気全てを削いでくる部分なので、これがないのはありがたいところです。
 
 ## 71. 封獄のモノクローム
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/71.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | RPG | [秋月ねこ柳](https://akinekoubou.web.fc2.com/) |
@@ -3593,6 +3655,8 @@ Super Phantom Cat なんかは、バグで全アイテムロストして一気�
 ストーリーの本筋はあっさり目なので、宝箱を回収してミニストーリーを回収していったほうが結構楽しいです。基本的にノリは軽いです。
 
 ## 72. クオリア
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/72.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | 探索 | お魚UFO |
@@ -3619,6 +3683,8 @@ Super Phantom Cat なんかは、バグで全アイテムロストして一気�
 操作キャラクターにクオリアがない点については悪魔の証明かなとは思っていまして、操作キャラクターの主観性というか感覚をこちらが観測できない時点で証明不可能だと感じています。私はこういう哲学めいた話は好きなので、川原泉さんの作品とかも好きです。
 
 ## 73. ベビーシッター2XXX
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/73.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | ノンフィールドRPG | 二六千里 |
@@ -3651,6 +3717,8 @@ Super Phantom Cat なんかは、バグで全アイテムロストして一気�
 敵グラフィックは格好いいのに、名前がこれ以上ないレベルでシンプルな世界観も好きです。
 
 ## 74. 冒険譚～18の場合～
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/74.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | RPG | 睡魔に襲われた人 |
@@ -3677,6 +3745,8 @@ Super Phantom Cat なんかは、バグで全アイテムロストして一気�
 個人的に一番きつかったのは30ターンダミーを殴るという罰ゲームめいたイベントでした。あとは、緊急離脱の誤爆が多かったので、事前確認が欲しかったです。
 
 ## 75. カグツチ探訪記
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/75.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | 戦闘メインRPG | [ケイ素](https://twitter.com/keiso_1414) |
@@ -3704,6 +3774,8 @@ Super Phantom Cat なんかは、バグで全アイテムロストして一気�
 第8回から、戦闘バランスは易化と難化を単振動しているイメージです。
 
 ## 76. Treasure Hunter 玖主
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/76.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | アドベンチャーRPG | 楼閣 |
@@ -3726,6 +3798,8 @@ Super Phantom Cat なんかは、バグで全アイテムロストして一気�
 全戦闘がイベントバトルという雰囲気でした。
 
 ## 77. ミルクティーのやさしい魔法
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/77.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | 調合&採集RPG | 幾山アカリ |
@@ -3746,6 +3820,8 @@ Super Phantom Cat なんかは、バグで全アイテムロストして一気�
 なお個人的には、顔グラに枠があるので、横からフェードインするような演出には違和感を覚えました。
 
 ## 78. ひよこが育つまで
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/78.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | 探索 | いねむりねこ |
@@ -3772,6 +3848,8 @@ Super Phantom Cat なんかは、バグで全アイテムロストして一気�
 
 
 ## 79. メカウルファールの「Ｈ」なシューティング
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/79.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | シューティング | [korokorokabi](https://mobile.twitter.com/korokorokabi) |
@@ -3797,6 +3875,8 @@ Super Phantom Cat なんかは、バグで全アイテムロストして一気�
 
 
 ## 80. 星影のお散歩
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/80.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | ミニゲーム | [てんこ](http://tenkoblog.blogspot.com/) |
@@ -3826,6 +3906,8 @@ Super Phantom Cat なんかは、バグで全アイテムロストして一気�
 ランキングについては最初のうちは割と簡単にのれましたが、今は魔境なので厳しくなっています。なので、実績システムで確かにやった感があるのもありがたいです。
 
 ## 81. わちゃわちゃダンジョンズ -ルセルッカの冒険譚-
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/81.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | 放置RPG | Strayひろま あたりメ ポルゼンヌ小林 |
@@ -3864,6 +3946,8 @@ Super Phantom Cat なんかは、バグで全アイテムロストして一気�
 代わりに、BGMが耳に残る曲なので、そちらで印象づいています。
 
 ## 82. ウルファールと鬼ごっこⅡ
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/82.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | スニーキング | はてなん |
@@ -3886,6 +3970,8 @@ Super Phantom Cat なんかは、バグで全アイテムロストして一気�
 ちなみに、私はクリア後にダッシュの存在に気付いたので、セルフ縛りプレイをしていたようです。ダッシュなしでも普通に動けていたので全く気づきませんでした。
 
 ## 83. R.P.G. of Classical Music -Piano Hikitaro's Memory-
+![](https://www.silversecond.com/WolfRPGEditor/Contest/Entry12/83.jpg)
+
 | ジャンル | 作者 |
 | --- | --- |
 | RPG | [パチ屋賭太朗](https://twitter.com/patiya_kaketaro) |
